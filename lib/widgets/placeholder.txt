@@ -1,0 +1,1 @@
+// 이 파일은 widgets 폴더의 존재를 보장하기 위한 placeholder입니다. 
